@@ -1,0 +1,93 @@
+body{
+    background-color: peachpuff;
+    font-family:Verdana;
+    
+    }
+ h1{
+        font-size: 70x;
+        color: black;
+        font-family:Verdana;
+
+    }
+#part1{background-color:khaki; 
+
+      }
+#part2{background-color:whitesmoke; 
+
+    }
+#part3{background-color:cornsilk; 
+
+      }
+#part4{background-color:burlywood; 
+
+      }
+
+.class1
+img{
+    height:150px;
+    width:150px;
+   
+   }
+   .class1{
+display:flex; 
+flex-direction: column;
+justify-content: space-evenly;
+gap:20px;
+          }
+
+  .Card{
+       width:200px;
+       height: 320px;
+       margin: 15px;
+       border-radius: 10px;
+      
+       }
+        .Card img {
+            max-height: 180px;
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+            border-radius: 5px;
+            margin: 5%; 
+            margin-top: 40%;
+            
+            
+        
+                   }
+        
+
+       
+       .Card p{
+              width: 220px;
+              height:220px;
+              font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+              padding: 10px;
+              }
+    
+    
+          
+        .Cards {
+            display: flex;
+            justify-content: flex-start; 
+            
+               }
+        
+          
+
+          
+     footer{
+          background-image:url('https://healthyfamilyproject.com/wp-content/uploads/2020/05/Passionfruit-background.jpg'); 
+          text-align: center;
+          padding: 20px;
+          position: fixed;
+          bottom: 0;
+          width: 100%;
+            }
+            footer a {
+                color: black; 
+                text-decoration: none;
+                font-weight: bold;
+                margin: 0 10px; 
+              }
+
+ 
