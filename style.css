@@ -1,6 +1,7 @@
 body{
     background-color: peachpuff;
     font-family:Verdana;
+    height: 150%;
     
     }
  h1{
@@ -79,9 +80,9 @@ gap:20px;
           background-image:url('https://healthyfamilyproject.com/wp-content/uploads/2020/05/Passionfruit-background.jpg'); 
           text-align: center;
           padding: 20px;
-          position: fixed;
-          bottom: 0;
-          width: 100%;
+          width: 175%;
+          margin-top:30%;
+         
             }
             footer a {
                 color: black; 
